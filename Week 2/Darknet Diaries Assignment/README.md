@@ -1,3 +1,6 @@
+### **Todo:** Include a list of technical terms that you hear in the podcast episode. 
+
+
 Darknet Diaries Reflection – Xbox Underground (Episode 45)
 Summary
 In Episode 45 of Darknet Diaries, the story is about a group of young hackers known as Xbox Underground. These were teenagers who were really interested in technology and wanted to explore how systems worked. They ended up finding weaknesses in systems from companies like Microsoft and used those weaknesses to gain access without permission.
